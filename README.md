@@ -1,4 +1,4 @@
-# UDP-socket-connection
+# UDP-Socket-API
 
 Steps to compile and  execute:
 
